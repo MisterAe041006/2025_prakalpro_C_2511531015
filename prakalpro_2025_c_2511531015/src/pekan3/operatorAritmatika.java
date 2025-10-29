@@ -1,5 +1,5 @@
 package pekan3;
-import java.util.Scanner;
+import java.util.Scanner;		
 public class operatorAritmatika {
      
 	public static void main(String[] args) {
